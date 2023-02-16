@@ -20,5 +20,8 @@
     }
   ],
   "users": [],
-  "blogs": []
+  "blogs": [],
+  "stock_broker_users": [],
+  "stock_broker_companies": [],
+  "stock_broker_stocks": []
 }
