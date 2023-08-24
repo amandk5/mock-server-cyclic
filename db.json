@@ -1008,28 +1008,46 @@
   ],
   "jobs":[
     {
+      "_id":1,
       "employer_logo":"https://picsum.photos/200/300",
-      "employer_name":"Microsoft"
+      "employer_name":"Microsoft",
+      "job_title":"Frontend Developer",
+      "job_country":"India"      
     },
     {
+      "_id":2,
       "employer_logo":"https://picsum.photos/200/300",
-      "employer_name":"Adobe"
+      "employer_name":"Adobe",
+      "job_title":"Frontend Developer",
+      "job_country":"India"   
     },
     {
+      "_id":3,
       "employer_logo":"https://picsum.photos/200/300",
-      "employer_name":"Google"
+      "employer_name":"Google",
+      "job_title":"Frontend Developer",
+      "job_country":"India"   
     },
     {
+      "_id":4,
       "employer_logo":"https://picsum.photos/200/300",
-      "employer_name":"Meta"
+      "employer_name":"Meta",
+      "job_title":"Frontend Developer",
+      "job_country":"India"   
     },
     {
+      "_id":5,
       "employer_logo":"https://picsum.photos/200/300",
-      "employer_name":"Tesla"
+      "employer_name":"Tesla",
+      "job_title":"Frontend Developer",
+      "job_country":"India"   
     },
     {
+      "_id":6,
       "employer_logo":"https://picsum.photos/200/300",
-      "employer_name":"Mercedes"
+      "employer_name":"Mercedes",
+      "job_title":"Frontend Developer",
+      "job_country":"India"   
     }
   ]
 }
