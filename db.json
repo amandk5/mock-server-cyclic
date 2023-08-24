@@ -1005,5 +1005,31 @@
       "country": "Zimbabwe",
       "city": "Harare"
     }
+  ],
+  "jobs":[
+    {
+      "employer_logo":"https://picsum.photos/200/300",
+      "employer_name":"Microsoft"
+    },
+    {
+      "employer_logo":"https://picsum.photos/200/300",
+      "employer_name":"Adobe"
+    },
+    {
+      "employer_logo":"https://picsum.photos/200/300",
+      "employer_name":"Google"
+    },
+    {
+      "employer_logo":"https://picsum.photos/200/300",
+      "employer_name":"Meta"
+    },
+    {
+      "employer_logo":"https://picsum.photos/200/300",
+      "employer_name":"Tesla"
+    },
+    {
+      "employer_logo":"https://picsum.photos/200/300",
+      "employer_name":"Mercedes"
+    }
   ]
 }
